@@ -1,0 +1,14 @@
+# Environment variables and secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+
+# Node.js
+frontend/node_modules/
+
+# Build files
+frontend/dist/
